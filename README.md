@@ -1,3 +1,6 @@
+
+ > ## ![capa ](https://github.com/Hkaua/Sid-and-Dio-Adventure/assets/115200562/a7eba23a-aa20-452b-b90a-11d8fbc74895)
+
 # Sid and Dio Adventure
 Neste trabalho da faculdade, exploramos várias discussões sobre qual linguagem utilizar para o projeto. Com base nessas questões, decidimos desenvolver um jogo utilizando exclusivamente HTML, CSS e JavaScript, para criar um jogo simples, mas divertido a qualquer pessoa, com mecânicas simples e responsivas, e uma interface confortável.
 
