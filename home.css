@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-image: url(/img/tela-inicial.png);
+}
+
+.content {
+    display: flex;
+    padding: 50px;
+    border-radius: 10px;
+    border: 5px solid #4b3621b7;
+}
+
+.content__text > h1 {
+    font-size: 110px;
+    color: rgb(232, 57, 57);
+    font-family: 'Sigmar', cursive;
+    text-align: center;
+}
+
+.content_button > button {
+    width: 200px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    background-color: rgb(214, 78, 78);
+}
+
+.content_button2 > button {
+    width: 200px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    background-color: rgb(3, 183, 3);
+}
+
+.str-button2 {
+    position: relative;
+  left: 260px;
+  top: -40px;
+}
+.img2{
+left: -2400000000000000000000000000000000px;
+width: 240px;
+}
+
+.versao{
+    position: relative;
+    text-align: justify;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 425px; 
+    top: 340px;
+    
+  }
